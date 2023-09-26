@@ -5,6 +5,7 @@ menu = '''
 [s] Sacar
 [e]Extrato
 [q]Sair
+
 =>'''
 
 saldo = 0
